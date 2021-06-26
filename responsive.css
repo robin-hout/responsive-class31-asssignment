@@ -1,0 +1,8 @@
+@media (max-width:992px) {
+    .banner_section .b_last{
+        order: 2;
+    }
+    .banner_section .first{
+        order: 1;
+    }
+ }
